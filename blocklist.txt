@@ -1,0 +1,7 @@
+#Title: Custom PiHole Blocklist 
+#Description: Tracker and advertisment domains to block using PiHole - https://pi-hole.net/
+#Author: ashleywm
+#License: MIT
+#Updated: 27/07/2020
+#---------------------
+api.amplitude.com #Tracker
