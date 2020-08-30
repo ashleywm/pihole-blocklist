@@ -2,6 +2,9 @@
 #Description: Tracker and advertisment domains to block using PiHole - https://pi-hole.net/
 #Author: ashleywm
 #License: MIT
-#Updated: 27/07/2020
+#Updated: 30/08/2020
 #---------------------
-api.amplitude.com #Tracker
+
+#Trackers
+api.amplitude.com
+smetrics.ubi.com 
